@@ -1,0 +1,28 @@
+name: joshuacharleshart
+favicon: null
+layout_spectrum: 0.7663131379522383
+typography_spectrum: 0.9846844812855124
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2745122155174613
+  lightness: 0.3156635675113648
+  saturation: 0.10558815533295274
+  rhythmicContrast: 0.27025560452602804
+purpose: []
