@@ -1,7 +1,7 @@
 name: joshua charles hart
 favicon: null
-layout_spectrum: 0.00273
-typography_spectrum: 0.38832
+layout_spectrum: 1
+typography_spectrum: 1
 title: website of painter/thingmaker joshua charles hart
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.0625
+    - '#e9e8e3'
+    - '#1a1c19'
+    - '#0076a8'
+    - '#92af93'
+    - '#804f2e'
+  brandStrength: 0.125
   lightness: 0
   saturation: 0
   rhythmicContrast: 0
